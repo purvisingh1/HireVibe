@@ -20,15 +20,7 @@ const Home = () => {
   }, []);
 
   return (
-    <div 
-    style={{
-      
-      backgroundImage: `url('https://thumbs.dreamstime.com/b/blurred-office-backdrop-modern-laptop-computer-placed-top-white-desk-office-setting-blurred-office-backdrop-311188038.jpg?w=768')`,
-     opacity:"50",
-     blur:"xl",
-      backgroundSize: 'cover',
-      backgroundPosition: 'center',
-    }}>
+    <div >
       
      <div className="bg-white text-black"> <Navbar/></div>
        

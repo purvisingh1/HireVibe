@@ -6,3 +6,21 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+#  Frontend - Job Portal
+
+This is the frontend part of the Job Portal project built using **React.js**.
+
+##  Technologies
+
+- React.js
+- CSS
+- Axios (for API calls)
+- React Router (for navigation)
+
+## Available Scripts
+
+```bash
+npm install     # Install dependencies
+npm start       # Run React app on localhost:3000
