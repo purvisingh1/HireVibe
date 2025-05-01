@@ -1,6 +1,6 @@
 
 import { useParams } from 'react-router-dom';
-import { Badge } from './ui/Badge';
+import { Badge } from './ui/badge';
 import { Button } from './ui/button';
 import { useEffect, useState } from 'react';
 import axios from 'axios';
